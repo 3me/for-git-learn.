@@ -5,4 +5,4 @@ Create a new branch is quickly && simple.
 =======
 Create a new branch is quickly and simple.
 >>>>>>> feature1
-and merge.
+and merge again.
