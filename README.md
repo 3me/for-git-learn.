@@ -1,3 +1,3 @@
 # for-git-learn.
 for git learn.
-Create a new branch is quickly.
+Create a new branch is quickly AND simple.
